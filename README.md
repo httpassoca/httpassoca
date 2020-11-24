@@ -1,5 +1,7 @@
-#### Hi, boy
-#### Hi, lady
+**Hi, boy**
+
+**Hi, lady**
+
 - Im a Vue.js enthusiastic
 - 🔭 I’m currently working on Front-end at **JMV Technology**
 - ⚡ Fun fact: I have a lot of names, but you can call me just Passoca, or Rafonel, or Rafael.
