@@ -10,8 +10,6 @@
 - [My posts](https://passoca.dev/blog), for the big 🧠 people 
 - [My Anilist](https://anilist.co/user/passoca), for the virgins
 
----
-
 ## Boolean Facts 
 *They can be true or false* 😅
 
