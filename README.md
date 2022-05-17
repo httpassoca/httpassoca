@@ -13,7 +13,8 @@
 ## Boolean Facts 
 *They can be true or false* 😅
 
+<img align="right" src="https://qph.fs.quoracdn.net/main-qimg-14ea6f23b8b6b5c74abfeadbeface642" width=400>
+
 * I don't drink coffee ☕
 * I'm the youngest where I work 👼
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-14ea6f23b8b6b5c74abfeadbeface642" width=400>
