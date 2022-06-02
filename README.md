@@ -17,4 +17,5 @@
 
 * I don't drink coffee ☕
 * I'm the youngest where I work 👼
+* I hate Microsoft Teams
 
