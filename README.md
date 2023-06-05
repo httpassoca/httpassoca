@@ -1,7 +1,7 @@
 
 ## Hi dev <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25></a>
 
-  I'm **Rafael**, *but you can call me **Passoca** :blush:*
+  I'm **Rafael**, *but you can call me **Passoca***
 
 - I’m currently working with Frontend at **Critical Techworks** <img src="https://i.imgur.com/tzGYv6r.png" width=26>  
 -  Yes, I'm on the ***green side of front***  <a href="https://vuejs.org/"><img style="margin: 0 2px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvuejsexamples.com%2Fcontent%2Fimages%2F2017%2F10%2Fvuejsexamples.png&f=1&nofb=1" width=15> </a>
